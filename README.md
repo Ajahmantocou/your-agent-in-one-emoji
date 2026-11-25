@@ -17,6 +17,25 @@ agent works — tool use, execution, doing — instead of the obvious robot head
 🤖 or smiley 😊 that half the field sends. Serious about the work, playful in
 tone, and it lands with no explanation at all.
 
+## Legibility at small size — and why not 🤖 or 😊
+
+A one-emoji entry is usually judged at thumbnail size, so the glyph has to
+survive being shrunk. 🦾 does: it is a single bold silhouette — a diagonal
+limb with two visible joints and a gripper — with strong contrast between the
+metal segments and the gaps between them, so it stays recognisable even at
+16 px, where a face collapses into two dots and a curve.
+
+🤖 fails that test twice over: at small size its eyes and antenna blur into a
+generic grey blob, and conceptually it is the laziest possible answer — it
+says "a robot" and nothing about what an *agent* does differently from any
+other program. 😊 is worse still: it says "happy", which is a mood, not a
+job, and it could stand for any cheerful chatbot, assistant, or customer
+service avatar. Neither one mentions tools, action, or delegation.
+
+The mechanical arm avoids both traps. It is the only common emoji whose
+meaning is a verb — *to reach, to pick up, to do* — rather than a noun or a
+feeling, and that verb is exactly the agent's job description.
+
 ## Run it
 
 ```sh
